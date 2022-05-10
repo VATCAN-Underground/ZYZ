@@ -48,12 +48,3 @@ Sounds	Sound15	\..\Sounds\new_atis.wav
 Sounds	Sound16	\..\Sounds\handoff_refused.wav
 Sounds	Sound17	\..\Sounds\pointout.wav
 Sounds	Sound18	\..\Sounds\startup.wav
-Plugins	Plugin0	C:\Users\Tyson\Documents\EuroScope\Departure List Sequencing.dll
-Plugins	Plugin1	C:\Users\Tyson\Documents\EuroScope\vSMR-1.5\vSMR.dll
-Plugins	Plugin1Display0	SMR radar display
-Plugins	Plugin2	\StatusUpdater.dll
-Plugins	Plugin4	C:\Program Files (x86)\vStrips\vStripsESP.dll
-Plugins	Plugin0Display0	Standard ES radar screen
-Plugins	Plugin5	C:\Users\Tyson\Downloads\CCAMS.dll
-Plugins	Plugin6	C:\Users\Tyson\source\repos\VATCANSitu\Release\VATCANSitu.dll
-Plugins	Plugin6Display0	Standard ES radar screen
