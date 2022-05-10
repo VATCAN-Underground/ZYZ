@@ -1,0 +1,111 @@
+Settings	ipaddr	\..\ipaddr.txt
+Settings	alias	\CZYZ\CZYZ_2203\alias.txt
+Settings	airlines	\CZYZ\CZYZ_2203\ICAO_Airlines.txt
+Settings	aircraft	\CZYZ\CZYZ_2203\ICAO_Aircraft.txt
+Settings	airports	\CZYZ\CZYZ_2203\ICAO_Airports.txt
+Settings	airways	\DataFiles\airway.txt
+Settings	AtisFolder	\atis_Canada\Atis_Canada.txt
+Settings	Settingsfile	\Settings\CAATS General settings.txt
+Settings	SettingsfileSCREEN	\Settings\CAATS Screen layout.txt
+Settings	SettingsfileSYMBOLOGY	\CZYZ\CZYZ_2203\CZYZ Symbology-VatcanSITU.txt
+Settings	SettingsfileTAGS	\Settings\CAATS TAG definations.txt
+Settings	SettingsfileSIL	\Settings\CAATS Sector inbound list configuration.txt
+Settings	SettingsfileSEL	\Settings\CAATS Sector exit list configuration.txt
+Settings	SettingsfileDEP	\Settings\CAATS Departure list configuration.txt
+Settings	SettingsfilePLUGINS	\Settings\CAATS Plug-in settings.txt
+Settings	SettingsfileARR	\Settings\CAATS Arrival list configuration.txt
+Settings	SettingsfileFP	\Settings\CAATS Flight Plan list configuration.txt
+Settings	sector	\CZYZ\CZYZ_2203\CZYZ.sct2
+Settings	SettingsfilePROFILE	\CZYZ\CZYZ_2201\CZYZ Login Profiles.txt
+Settings	SettingsfileVOICE	\CZYZ\CZYZ_2201\CZYZ LiveATC.txt
+Sounds	Sound0	\..\Sounds\handoff_request.wav
+Sounds	Sound1	\..\Sounds\handoff_accept.wav
+Sounds	Sound2	\..\Sounds\conflict_alert.wav
+Sounds	Sound3	\..\Sounds\radio_message.wav
+Sounds	Sound4	\..\Sounds\private_message.wav
+Sounds	Sound5	\..\Sounds\atc_message.wav
+Sounds	Sound6	\..\Sounds\broadcast_message.wav
+Sounds	Sound7	\..\Sounds\landline_request.wav
+Sounds	Sound8	\..\Sounds\supervisor_message.wav
+Sounds	Sound9	\..\Sounds\connected.wav
+Sounds	Sound10	\..\Sounds\disconnected.wav
+Sounds	Sound11	\..\Sounds\ongoing_request.wav
+Sounds	Sound12	\..\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\..\Sounds\ongoing_refused.wav
+Sounds	Sound14	\..\Sounds\ongoing_manual.wav
+Sounds	Sound15	\..\Sounds\new_atis.wav
+Sounds	Sound16	\..\Sounds\handoff_refused.wav
+Sounds	Sound17	\..\Sounds\pointout.wav
+Sounds	Sound18	\..\Sounds\startup.wav
+ASRFastKeys	1	\CZYZ\CTR   SH.asr
+ASRFastKeys	2	\CZYZ\CTR   PI.asr
+ASRFastKeys	3	\CZYZ\CTR   CE.asr
+ASRFastKeys	4	\CZYZ\APP   YYZ06.asr
+ASRFastKeys	5	\CZYZ\APP   YYZ24.asr
+ASRFastKeys	6	\CZYZ\APP   YYZ15.asr
+ASRFastKeys	7	\CZYZ\APP   YYZ33.asr
+ASRFastKeys	8	\CZYZ\TWR   CYYZ.asr
+ASRFastKeys	9	\CZYZ\GND   CYYZ.asr
+Plugins	Plugin0	C:\Users\Tyson\Documents\EuroScope\Departure List Sequencing.dll
+RecentFiles	Recent1	\CZYZ\CZYZ_2203\ASR Files\CTRLO.asr
+RecentFiles	Recent2	\CZYZ\CZYZ_2203\ASR Files\CTRLO24.asr
+LastSession	connecttype	0
+LastSession	realname	1295578
+LastSession	certificate	1295578
+LastSession	password	681422
+LastSession	facility	6
+LastSession	rating	6
+LastSession	server	USA-WEST
+LastSession	tovatsim	1
+LastSession	atis2	Toronto Centre
+LastSession	range	433
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+RecentFiles	Recent3	\CZYZ\CZYZ_2201\ASR Files\CTRLO24.asr
+RecentFiles	Recent4	\CZYZ\CZYZ_2201\ASR Files\ARR24.asr
+RecentFiles	Recent5	\CZYZ\CZYZ_2201\ASR Files\CTRLO.asr
+LastSession	atis_airport	CYYZ
+LastSession	atis_letter	88
+RecentFiles	Recent6	\CZYZ\CZYZ_2201\ASR Files\ARR06.asr
+RecentFiles	Recent7	\CZYZ\CZYZ_2112\ASR Files\TorontoGround.asr
+RecentFiles	Recent8	\CZYZ\CZYZ_2201\ASR Files\Airports24.asr
+Settings	SettingsfileCONFLICT	\Settings\CAATS General settings.txt
+Settings	SettingsfileVCCS	\CZYZ\2103\CZYZ_VCCS.txt
+Settings	SettingsfilePILOTING	\Settings\CAATS General settings.txt
+Settings	airportcoords	\CZYZ\CZYZ_2203\icao.txt
+Plugins	Plugin1	C:\Users\Tyson\Documents\EuroScope\vSMR-1.5\vSMR.dll
+Plugins	Plugin1Display0	SMR radar display
+RecentFiles	Recent9	\CZYZ\CZYZ_2201\ASR Files\LondonGround.asr
+Plugins	Plugin2	\StatusUpdater.dll
+RecentFiles	Recent10	\CZYZ\CZYZ_2201\ASR Files\CTRHI.asr
+RecentFiles	Recent11	\CZYZ\CZYZ_2112\ASR Files\ARR24.asr
+LastSession	callsign	TOR_CTR
+LastSession	scenario	\CZYZ\CENTRE\1.EAST_W.txt
+Plugins	Plugin3	\DiscordEuroscope.dll
+LastSession	atis3	Charts and Info - www.torontofir.ca
+Plugins	Plugin4	C:\Program Files (x86)\vStrips\vStripsESP.dll
+TeamSpeakVccs	Ts3DialogLeft	-2394
+TeamSpeakVccs	Ts3DialogTop	62
+TeamSpeakVccs	Ts3DialogRight	-1414
+TeamSpeakVccs	Ts3DialogBottom	661
+TeamSpeakVccs	Ts3NickName	1295578
+TeamSpeakVccs	PlaybackMode	Windows Audio Session
+TeamSpeakVccs	PlaybackDevice	Headphones (Apple Audio Device)
+TeamSpeakVccs	CaptureMode	Windows Audio Session
+TeamSpeakVccs	CaptureDevice	Microphone (5- DYNEX USB Audio Device)
+TeamSpeakVccs	Ts3G2APtt	5046272
+TeamSpeakVccs	Ts3G2GPtt	4980736
+TeamSpeakVccs	TsVccsMiniControlX	1266
+TeamSpeakVccs	TsVccsMiniControlY	87
+Settings	SettingsfileORIGPLANE	\Settings\CAATS General settings.txt
+Settings	SettingsfileSTUP	\Settings\CAATS General settings.txt
+Settings	SettingsfileTAXIOUT	\Settings\CAATS General settings.txt
+Settings	SettingsfileTAKEOFF	\Settings\CAATS General settings.txt
+Settings	SettingsfileADCS	\Settings\CAATS General settings.txt
+Settings	SettingsfileTAXIIN	\Settings\CAATS General settings.txt
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin5	C:\Users\Tyson\Downloads\CCAMS.dll
+Plugins	Plugin6	C:\Users\Tyson\source\repos\VATCANSitu\Release\VATCANSitu.dll
+Plugins	Plugin6Display0	Standard ES radar screen
